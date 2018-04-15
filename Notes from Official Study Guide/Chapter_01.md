@@ -5,29 +5,31 @@
 ### Confidentiality
 Objects are restricted from unauthorized subjects.
 
-#### Sensitivity
+
+> #### Sensitivity
 Quality of information, which could cause harm or damage if disclosed.
 
-#### Discretion
+> #### Discretion
 Act of decision where an operator can influence or control disclosure in order to minimize damage.
 
-#### Criticality
+> #### Criticality
 The level to which information is mission critical.
 
-#### Concealment
+> #### Concealment
 Act of hiding or preventing disclosure (cover, obfuscation, or distraction).
 
-#### Secrecy
+> #### Secrecy
 Act of keeping something a secret or preventing the disclosure.
 
-#### Privacy
+> #### Privacy
 Keeping information confidential that is personally identifiable.
 
-#### Seclusion
+> #### Seclusion
 Storing something in an out-of-the-way location.
 
-#### Isolation
+> #### Isolation
 Act of keeping something separated from others.
+
 
 ### Integrity
 Objects must retain their veracity and be intentionally modified by only authorized subjects
